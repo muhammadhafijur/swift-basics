@@ -20,5 +20,8 @@ and separate them with commas */
 let x = 0.0, y = 0.1, z = 0.4
 print("x is \(x), y is \(y) and z is \(z)")
 
+let name = "Rahim"
+var age = 24
+print(name, age)
 
 
